@@ -1,0 +1,3 @@
+ 我们在项目中使用的是：
+               XCTest+OCMock+OChamcrest+KIF
+  的组合，个人感觉这几款框架的组合是最适合iOS白盒测试的搭配之一。
